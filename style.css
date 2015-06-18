@@ -45,7 +45,8 @@ h1, h4 {
 }
 
 img {
-	margin: 5px auto;
+	display: block;
+	margin: 50px auto;
 	border: 1px solid yellow;
 	border-radius: 15px;
 }
