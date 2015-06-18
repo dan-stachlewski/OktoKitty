@@ -36,7 +36,7 @@ footer {
 	margin: 25px auto;
 	padding: 25px;
 	background-color: #FFF;
-	border: 1px solid #FFFF00;
+	border: 1px solid #FF0000;
 	border-radius: 5px;
 }
 
@@ -44,7 +44,7 @@ h1, h4 {
 	text-align: center;
 }
 
-#kitty {
+img {
 	margin: 5px auto;
 	border: 1px solid yellow;
 	border-radius: 15px;
