@@ -15,7 +15,7 @@ header {
 	height: 75px;
 	margin: 5px auto;
 	background-color: #FFF;
-	border: 1px solid #FF00FF;
+	border: 1px solid #FFFF00;
 	border-radius: 5px;
 }
 
@@ -24,6 +24,7 @@ section {
 	height: 300;
 	margin: 5px auto;
 	background-color: #FFF;	
+	border: 1px solid #FFFF00;
 	border-radius: 5px;
 }
 
@@ -32,5 +33,12 @@ footer {
 	height: 75px;
 	margin: 5px auto;
 	background-color: #FFF;
+	border: 1px solid #FFFF00;
 	border-radius: 5px;
 }
+
+h1 {
+	text-align: center;
+}
+
+
