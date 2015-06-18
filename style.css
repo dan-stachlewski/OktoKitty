@@ -7,6 +7,26 @@
 
 body {
 	font-family: verdana;
-	background-color: #AEAEAE;
+	background-color: #E6E;
 }
 
+header {
+	width: 960px;
+	height: 75px;
+	background-color: #FFF;
+	border-radius: 5px;
+}
+
+section {
+	width: 960px;
+	height: 300;
+	background-color: #FFF;	
+	border-radius: 5px;
+}
+
+footer {
+	width: 960px;
+	height: 75px;
+	background-color: #FFF;
+	border-radius: 5px;
+}
